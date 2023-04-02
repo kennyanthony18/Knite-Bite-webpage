@@ -1,0 +1,82 @@
+.mainhead
+{
+   display: flex;
+}
+.head{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+.next
+{
+    
+    background-color: none;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: italic;
+    margin-left: 650px;
+}
+body
+{
+    background-image: url(./image/berger3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.center
+{
+    margin-top: 170px;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+
+}
+.gen{
+    border: transparent;
+    color: azure;
+    height: 40px;
+    width: 90px;
+    background-color: rgba(252, 7, 7, 0.103);
+    justify-content: space-evenly;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: italic;
+}
+.hi 
+{
+    color: azure;
+    border: transparent;
+    border-radius: 20px;
+    height: 50px;
+    width: 150px;
+    background-color: rgba(252, 7, 7, 0.76);
+    align-items: center;
+    margin-left: 44%;
+    margin-top: -40px;
+
+}
+p{
+    font-size: large;
+    margin-left: 47%;
+    color: aliceblue;
+    background-color: none;
+}
+.apple
+{
+    margin-left: 33%;
+    border: transparent;
+    border-radius: 20px;
+
+}
+.gplay
+{
+    margin-left: 8%;
+    border: transparent;
+    border-radius: 20%;
+}
+.bottom
+{
+    display: flex;
+}
